@@ -1,0 +1,20 @@
+[
+  {"slug":"web-development","name":"Web Development","blurb":"React, Node, MERN and full-stack websites","glyph":"</>","hue":243,
+   "service":"/services/website-development-projects","serviceLabel":"Website development projects",
+   "blog":"/index.php/category/final-year-projects/","blogLabel":"Final year project guides"},
+  {"slug":"ai-machine-learning","name":"AI & Machine Learning","blurb":"ML models, computer vision and IoT with AI","glyph":"AI","hue":275,
+   "service":"/services/data-analysis-ai-projects","serviceLabel":"Data analysis & AI projects",
+   "blog":"/index.php/category/ai-machine-learning/","blogLabel":"AI & machine learning guides"},
+  {"slug":"data-analytics","name":"Data Analytics","blurb":"Dashboards, SQL, Power BI and reporting","glyph":"∑","hue":190,
+   "service":"/services/data-analysis-ai-projects","serviceLabel":"Data analysis & AI projects",
+   "blog":"/index.php/category/data-analysis-visualization/","blogLabel":"Data analysis guides"},
+  {"slug":"python-projects","name":"Python & Desktop","blurb":"Python, Tkinter, Flask and desktop software","glyph":"py","hue":215,
+   "service":"/services/software-development-projects","serviceLabel":"Software development projects",
+   "blog":"/index.php/category/programming/","blogLabel":"Programming guides"},
+  {"slug":"mobile-apps","name":"Mobile Apps","blurb":"Android and cross-platform apps with Firebase","glyph":"▯","hue":330,
+   "service":"/services/software-development-projects","serviceLabel":"Software development projects",
+   "blog":"/index.php/category/project-ideas/","blogLabel":"Project idea guides"},
+  {"slug":"mini-projects","name":"Mini Projects","blurb":"Small, quick projects for assignments and internships","glyph":"✓","hue":35,
+   "service":"/services/internship-mini-projects","serviceLabel":"Internship & mini projects",
+   "blog":"/index.php/category/project-ideas/","blogLabel":"Project idea guides"}
+]

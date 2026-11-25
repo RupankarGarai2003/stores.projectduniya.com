@@ -1,0 +1,12 @@
+.pdstore-card { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap;
+  margin: 2rem 0; padding: 1.5rem 1.75rem; border-radius: 16px; color: #fff;
+  background: linear-gradient(135deg, #312e81, #4f46e5); }
+.pdstore-card h2 { margin: 0 0 .4rem; font-size: 1.35rem; line-height: 1.25; color: #fff; }
+.pdstore-card p { margin: 0; max-width: 56ch; color: #e0e7ff; }
+.pdstore-btn { display: inline-block; padding: .8rem 1.3rem; border-radius: 10px; background: #fff; color: #3730a3;
+  font-weight: 700; text-decoration: none; }
+.pdstore-btn:hover { background: #eef2ff; color: #3730a3; }
+.pdstore-slim { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; padding: .6rem 1rem;
+  background: #eceafd; color: #14123a; text-decoration: none; font-size: .9rem; border-radius: 10px; }
+.pdstore-slim:hover { background: #e0dcfb; color: #14123a; }
+.pdstore-slim-cta { font-weight: 700; color: #3730a3; }

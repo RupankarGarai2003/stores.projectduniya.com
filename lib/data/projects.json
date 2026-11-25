@@ -1,0 +1,390 @@
+[
+  {
+    "code": "PD-101",
+    "slug": "school-management-system-mern",
+    "title": "School Management System (MERN)",
+    "category": "web-development",
+    "level": "Final year",
+    "difficulty": "Intermediate",
+    "price": 3499,
+    "originalPrice": 4999,
+    "tagline": "Admin, teacher, student and parent portals in one React and Node app.",
+    "description": "A complete school ERP with role-based dashboards for attendance, fees, timetables and exam results. Built on the MERN stack with a clean admin panel, so it demos well in a viva.",
+    "features": [
+      "Role-based login for admin, teacher, student and parent",
+      "Attendance, fee and result management",
+      "Timetable and notice board modules",
+      "Admin dashboard with charts and PDF reports",
+      "Responsive UI that works on mobile"
+    ],
+    "stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "JWT"
+    ],
+    "featured": true,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/21/school-management-system-project-modules-features-technology-stack-development-guide/",
+    "blogLabel": "School Management System: modules, features and tech stack guide"
+  },
+  {
+    "code": "PD-102",
+    "slug": "smart-waste-segregation-iot-ai",
+    "title": "Smart Waste Segregation System (IoT + AI)",
+    "category": "ai-machine-learning",
+    "level": "Final year",
+    "difficulty": "Advanced",
+    "price": 4499,
+    "originalPrice": 5999,
+    "tagline": "Camera-based waste classifier with a live dashboard and bin-level alerts.",
+    "description": "Classifies waste into dry, wet and recyclable using a trained image model, and shows bin status on a web dashboard. Includes circuit notes and a trained model, so you can run it with or without hardware.",
+    "features": [
+      "Image classification model with trained weights",
+      "Live dashboard with bin fill-level status",
+      "Alert module for full bins",
+      "Circuit diagram and component list",
+      "Works in demo mode without hardware"
+    ],
+    "stack": [
+      "Python",
+      "TensorFlow",
+      "OpenCV",
+      "Arduino",
+      "Flask"
+    ],
+    "featured": true,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/21/smart-waste-segregation-system-project-features-modules-iot-ai-implementation-guide/",
+    "blogLabel": "Smart Waste Segregation System: implementation guide"
+  },
+  {
+    "code": "PD-103",
+    "slug": "ecommerce-website-mern",
+    "title": "E-Commerce Website with Admin Panel",
+    "category": "web-development",
+    "level": "Final year",
+    "difficulty": "Intermediate",
+    "price": 3999,
+    "originalPrice": 5499,
+    "tagline": "Full online store: catalogue, cart, orders and an admin panel.",
+    "description": "A MERN shopping site with product search, cart, checkout flow and order tracking. The admin panel manages products, stock and orders.",
+    "features": [
+      "Product catalogue with search and filters",
+      "Cart, checkout and order history",
+      "Admin panel for products, stock and orders",
+      "Secure login with JWT",
+      "Payment gateway integration in test mode"
+    ],
+    "stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Redux"
+    ],
+    "featured": true,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/14/top-10-web-development-projects-for-students-in-2027/",
+    "blogLabel": "Top 10 Web Development Projects for Students in 2027"
+  },
+  {
+    "code": "PD-104",
+    "slug": "hospital-appointment-booking",
+    "title": "Hospital Appointment Booking System",
+    "category": "web-development",
+    "level": "Final year",
+    "difficulty": "Intermediate",
+    "price": 2999,
+    "originalPrice": 3999,
+    "tagline": "Patients book doctors by slot; admins manage departments and schedules.",
+    "description": "A booking system with doctor profiles, slot availability, email confirmations and an admin view of all appointments.",
+    "features": [
+      "Doctor profiles with department filter",
+      "Slot-based booking without double-booking",
+      "Email confirmation on booking",
+      "Admin view of all appointments",
+      "Patient history page"
+    ],
+    "stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "featured": false,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/14/top-10-web-development-projects-for-students-in-2027/",
+    "blogLabel": "Top 10 Web Development Projects for Students in 2027"
+  },
+  {
+    "code": "PD-105",
+    "slug": "online-learning-platform-lms",
+    "title": "Online Learning Platform (LMS)",
+    "category": "web-development",
+    "level": "Final year",
+    "difficulty": "Advanced",
+    "price": 4299,
+    "originalPrice": 5799,
+    "tagline": "Courses, video lessons, quizzes and progress tracking for students.",
+    "description": "A learning management system where instructors upload courses and students enrol, watch lessons, take quizzes and track progress.",
+    "features": [
+      "Instructor and student roles",
+      "Course and lesson management",
+      "Quiz module with auto-grading",
+      "Progress tracking per student",
+      "Certificate generation as PDF"
+    ],
+    "stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "Multer"
+    ],
+    "featured": false,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/14/top-10-web-development-projects-for-students-in-2027/",
+    "blogLabel": "Top 10 Web Development Projects for Students in 2027"
+  },
+  {
+    "code": "PD-201",
+    "slug": "fake-news-detection-ml",
+    "title": "Fake News Detection using Machine Learning",
+    "category": "ai-machine-learning",
+    "level": "Final year",
+    "difficulty": "Intermediate",
+    "price": 2999,
+    "originalPrice": 3999,
+    "tagline": "Classify news headlines and articles as real or fake with a web interface.",
+    "description": "Trains and compares several classifiers on a labelled news dataset and serves the best one through a small Flask app. Includes accuracy and confusion-matrix analysis for the report.",
+    "features": [
+      "Text cleaning and TF-IDF pipeline",
+      "Comparison of 4 classifiers with metrics",
+      "Flask web app for live predictions",
+      "Confusion matrix and accuracy charts",
+      "Notebook with step-by-step explanation"
+    ],
+    "stack": [
+      "Python",
+      "scikit-learn",
+      "NLTK",
+      "Flask",
+      "Pandas"
+    ],
+    "featured": true,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/16/machine-learning-vs-deep-learning-differences-examples-and-career-opportunities/",
+    "blogLabel": "Machine Learning vs Deep Learning explained"
+  },
+  {
+    "code": "PD-202",
+    "slug": "student-performance-predictor",
+    "title": "Student Performance Predictor",
+    "category": "ai-machine-learning",
+    "level": "Final year",
+    "difficulty": "Beginner",
+    "price": 2499,
+    "originalPrice": 3299,
+    "tagline": "Predict exam outcomes from attendance, study time and past marks.",
+    "description": "A regression and classification project on student data with feature analysis and a simple prediction form. A good fit if you want a clear ML story that is easy to explain.",
+    "features": [
+      "Data cleaning and exploratory analysis",
+      "Regression and classification models",
+      "Feature importance analysis",
+      "Prediction form built with Streamlit",
+      "Report-ready charts"
+    ],
+    "stack": [
+      "Python",
+      "scikit-learn",
+      "Pandas",
+      "Streamlit"
+    ],
+    "featured": false,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/13/top-10-ai-projects-for-final-year-students-in-2027/",
+    "blogLabel": "Top 10 AI Projects for Final-Year Students in 2027"
+  },
+  {
+    "code": "PD-203",
+    "slug": "face-recognition-attendance-system",
+    "title": "Face Recognition Attendance System",
+    "category": "ai-machine-learning",
+    "level": "Final year",
+    "difficulty": "Advanced",
+    "price": 3799,
+    "originalPrice": 4999,
+    "tagline": "Mark attendance from a webcam and export daily reports to Excel.",
+    "description": "Registers student faces, recognises them live through the webcam and logs attendance with a timestamp. Daily and monthly reports export to Excel.",
+    "features": [
+      "Face registration and live recognition",
+      "Automatic attendance log with timestamps",
+      "Excel export for daily and monthly reports",
+      "Admin screen to add or remove students",
+      "Runs on a normal laptop webcam"
+    ],
+    "stack": [
+      "Python",
+      "OpenCV",
+      "Tkinter",
+      "SQLite"
+    ],
+    "featured": true,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/13/top-10-ai-projects-for-final-year-students-in-2027/",
+    "blogLabel": "Top 10 AI Projects for Final-Year Students in 2027"
+  },
+  {
+    "code": "PD-301",
+    "slug": "sales-dashboard-power-bi-sql",
+    "title": "Sales Analytics Dashboard (SQL + Power BI)",
+    "category": "data-analytics",
+    "level": "Final year",
+    "difficulty": "Intermediate",
+    "price": 1999,
+    "originalPrice": 2799,
+    "tagline": "Interactive dashboard on a retail sales database, with the SQL behind it.",
+    "description": "Cleans a retail dataset in SQL, models it and builds a multi-page Power BI report covering revenue, region, product and trend views.",
+    "features": [
+      "SQL scripts for cleaning and views",
+      "Star-schema data model",
+      "3-page interactive Power BI report",
+      "DAX measures for KPIs",
+      "Dataset included"
+    ],
+    "stack": [
+      "SQL",
+      "Power BI",
+      "DAX",
+      "Excel"
+    ],
+    "featured": true,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/17/how-to-create-an-interactive-power-bi-dashboard-a-beginners-step-by-step-guide/",
+    "blogLabel": "How to Create an Interactive Power BI Dashboard"
+  },
+  {
+    "code": "PD-302",
+    "slug": "customer-churn-analysis",
+    "title": "Customer Churn Analysis and Prediction",
+    "category": "data-analytics",
+    "level": "Final year",
+    "difficulty": "Intermediate",
+    "price": 2199,
+    "originalPrice": 2999,
+    "tagline": "Find why customers leave and predict who is likely to go next.",
+    "description": "Exploratory analysis plus a prediction model on telecom customer data, with a summary dashboard of churn drivers.",
+    "features": [
+      "Exploratory data analysis notebook",
+      "Churn prediction model",
+      "Churn drivers summary",
+      "Dashboard of key findings",
+      "Dataset included"
+    ],
+    "stack": [
+      "Python",
+      "Pandas",
+      "scikit-learn",
+      "Matplotlib"
+    ],
+    "featured": false,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/17/how-to-create-an-interactive-power-bi-dashboard-a-beginners-step-by-step-guide/",
+    "blogLabel": "How to Create an Interactive Power BI Dashboard"
+  },
+  {
+    "code": "PD-401",
+    "slug": "library-management-system-python",
+    "title": "Library Management System",
+    "category": "python-projects",
+    "level": "Final year",
+    "difficulty": "Beginner",
+    "price": 1499,
+    "originalPrice": 1999,
+    "tagline": "Desktop app to issue, return and track books with fine calculation.",
+    "description": "A Python desktop application with member and book records, issue and return flow and automatic fine calculation, backed by SQLite.",
+    "features": [
+      "Book and member management",
+      "Issue and return with due dates",
+      "Automatic fine calculation",
+      "Search by title, author or ID",
+      "Simple admin login"
+    ],
+    "stack": [
+      "Python",
+      "Tkinter",
+      "SQLite"
+    ],
+    "featured": false,
+    "published": true,
+    "updated": "2026-11-22",
+    "blogUrl": "https://blogs.projectduniya.com/index.php/2026/11/13/top-10-python-projects-for-beginners-and-final-year-students-in-2027/",
+    "blogLabel": "Top 10 Python Projects for Beginners and Final-Year Students"
+  },
+  {
+    "code": "PD-501",
+    "slug": "expense-tracker-android-flutter",
+    "title": "Expense Tracker Mobile App",
+    "category": "mobile-apps",
+    "level": "Final year",
+    "difficulty": "Intermediate",
+    "price": 2799,
+    "originalPrice": 3799,
+    "tagline": "Track daily spending with categories, charts and cloud sync.",
+    "description": "A Flutter app with Firebase login and cloud sync. Add expenses, group them by category and view monthly charts.",
+    "features": [
+      "Email login with Firebase",
+      "Add, edit and delete expenses",
+      "Category-wise monthly charts",
+      "Cloud sync across devices",
+      "Export summary as CSV"
+    ],
+    "stack": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
+    "featured": false,
+    "published": true,
+    "updated": "2026-11-22"
+  },
+  {
+    "code": "PD-601",
+    "slug": "task-manager-react-mini",
+    "title": "Task Manager (React Mini Project)",
+    "category": "mini-projects",
+    "level": "Mini",
+    "difficulty": "Beginner",
+    "price": 799,
+    "originalPrice": 1199,
+    "tagline": "A clean to-do and deadline tracker built with React hooks.",
+    "description": "A small React project for assignments and internships: add tasks, set deadlines, filter by status and keep everything saved in the browser.",
+    "features": [
+      "Add, edit, complete and delete tasks",
+      "Deadline and priority tags",
+      "Filter by status",
+      "Saved in browser storage",
+      "Responsive layout"
+    ],
+    "stack": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "featured": false,
+    "published": true,
+    "updated": "2026-11-22"
+  }
+]
