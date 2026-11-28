@@ -1,8 +1,8 @@
 // Everything you are likely to change lives here or in lib/data/*.json.
 export const SITE = {
   name: 'ProjectDuniya Store',
-  host: 'store.projectduniya.com',
-  url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://store.projectduniya.com').replace(/\/$/, ''),
+  host: 'stores.projectduniya.com',
+  url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://stores.projectduniya.com').replace(/\/$/, ''),
   whatsapp: '918391808784',
   phone: '+91 83918 08784',
   email: 'projectduniya.help@gmail.com',
